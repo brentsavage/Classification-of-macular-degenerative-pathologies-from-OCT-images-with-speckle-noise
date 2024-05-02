@@ -12,7 +12,7 @@ Brent Savage
 
 1. ***OCT Database Links.txt:*** text file with links (Google Drive) to all relevant OCT image databases, original and modified, used in this project
 
-### Presentations:
+### Project Documents:
 
 1. ***BrentSavage_BME548L_FinalPresentation.pptx:*** slide deck for in-class presentation (May 2, 2024)
 
