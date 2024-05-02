@@ -27,8 +27,10 @@ Brent Savage
 
 4. ***AddingSpeckleNoise.ipynb:*** adding speckle noise to the resized OCT images
 
-5. ***DenoisingAutoencoderAndVGG16Classification.ipnyb:*** speckle noise images denoised using an autoencoder and classified using a VGG-16 model
+5. ***DenoisingAutoencoder.ipnyb:*** speckle noise images denoised using an autoencoder to recover original images
 
+6. ***VGG1Classification.ipnyb:*** recovered images classified by VGG-11 network
+    
 ## Original Data:
 
 The original dataset used for this project can be found here: https://data.mendeley.com/datasets/rscbjbr9sj/2
