@@ -4,7 +4,7 @@ Final Project for BME 548L: Machine Learning and Imaging (Spring 2024, Duke Univ
 Brent Savage
 
 
-(Comlpeted as a requirement towards Master of Engineering (MEng) in Photonics and Optical Sciences)
+[Comlpeted as a requirement towards Master of Engineering (MEng) in Photonics and Optical Sciences]
 
 ## Document Descriptions:
 
