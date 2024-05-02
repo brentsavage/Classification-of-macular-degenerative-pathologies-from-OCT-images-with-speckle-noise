@@ -5,7 +5,7 @@ Final Project for BME 541L: Machine Learning and Imaging (Spring 2024, Duke Univ
 
 ### OCT Data:
 
-1. ***OCT Database Links.txt:*** text file with links (Google Drive) to all relevant OCT image databases used in this project
+1. ***OCT Database Links.txt:*** text file with links (Google Drive) to all relevant OCT image databases, original and modified, used in this project
 
 ### Presentations:
 
