@@ -1,5 +1,5 @@
 # Classification of macular degenerative pathologies from OCT images with speckle noise 
-Final Project for BME 541L: Machine Learning and Imaging (Spring 2024, Duke University)
+Final Project for BME 548L: Machine Learning and Imaging (Spring 2024, Duke University)
 
 ## Document Descriptions:
 
@@ -9,9 +9,9 @@ Final Project for BME 541L: Machine Learning and Imaging (Spring 2024, Duke Univ
 
 ### Presentations:
 
-1. ***BrentSavage_BME541L_FinalPresentation.pptx:*** slide deck for in-class presentation (May 2, 2024)
+1. ***BrentSavage_BME548L_FinalPresentation.pptx:*** slide deck for in-class presentation (May 2, 2024)
 
-3. ***BrentSavage_BME541L_FinalPresentation.pdf:*** pdf version of slide deck
+3. ***BrentSavage_BME548L_FinalPresentation.pdf:*** pdf version of slide deck
  
 ### Source Code:
 1. ***SpeckleNoiseSimulation.ipynb:*** demonstrating the addition of speckle noise to OCT images
