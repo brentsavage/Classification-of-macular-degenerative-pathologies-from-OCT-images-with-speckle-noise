@@ -29,9 +29,6 @@ Brent Savage
 
 5. ***DenoisingAutoencoderAndVGG16Classification.ipnyb:*** speckle noise images denoised using an autoencoder and classified using a VGG-16 model
 
-6. ***VGG16Classification.ipnyb:*** speckle noise images directly classified using a VGG-16 model
-
-
 ## Original Data:
 
 The original dataset used for this project can be found here: https://data.mendeley.com/datasets/rscbjbr9sj/2
