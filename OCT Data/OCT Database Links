@@ -19,3 +19,8 @@ Below are all google drive links to the databases that I have modified for this 
 
   5. High Speckle Noise Data: 
                 https://drive.google.com/drive/folders/1r6jAjJk6v6SHc1JeH2Pk9HV-UB_8FV_4?usp=drive_link
+
+  6. Reconstructed Images from Denoising Autoencoder*:
+                https://drive.google.com/drive/folders/1ZAN2DSRdhNkcg41DI1_RysHWU2TmY18x?usp=drive_link 
+
+  *This folder contains numpy arrays to represent the images, rather than .jpeg files
