@@ -7,6 +7,12 @@ Final Project for BME 541L: Machine Learning and Imaging (Spring 2024, Duke Univ
 
 1. OCT Database Links.txt: text file with links (Google Drive) to all relevant OCT image databases used in this project
 
+### Presentations:
+
+1. BrentSavage_BME541L_FinalPresentation.pptx: slide deck for in-class presentation (May 2, 2024)
+
+2. BrentSavage_BME541L_FinalPresentation.pdf: pdf version of slide deck
+ 
 ### Source Code:
 1. SpeckleNoiseSimulation.ipynb: demonstrating the addition of speckle noise to OCT images
 
