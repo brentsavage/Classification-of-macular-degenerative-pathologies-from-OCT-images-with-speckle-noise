@@ -1,6 +1,11 @@
 # Classification of macular degenerative pathologies from OCT images with speckle noise 
 Final Project for BME 548L: Machine Learning and Imaging (Spring 2024, Duke University)
 
+Brent Savage
+
+
+(Comlpeted as a requirement towards Master of Engineering (MEng) in Photonics and Optical Sciences)
+
 ## Document Descriptions:
 
 ### OCT Data:
