@@ -17,6 +17,16 @@ Brent Savage
 1. ***BrentSavage_BME548L_FinalPresentation.pptx:*** slide deck for in-class presentation (May 2, 2024)
 
 3. ***BrentSavage_BME548L_FinalPresentation.pdf:*** pdf version of slide deck
+
+### Resources:
+
+1. Age-related macular degeneration.pd: review article on age-related macular degeneration
+
+2. ECE 542 HW#2: homework completed by Brent Savage for ECE 542: Holography and Coherent Imaging (Fall 2023, Duke University) outlining speckle noise simulation
+
+3. OCT reveiw.pdf: reivew article on Optical Coherence Tomography
+
+4. Speckle Control for elec-holo.pdf: Optical Engineering article that includes speckle contrast formulation
  
 ### Source Code:
 1. ***SpeckleNoiseSimulation.ipynb:*** demonstrating the addition of speckle noise to OCT images
