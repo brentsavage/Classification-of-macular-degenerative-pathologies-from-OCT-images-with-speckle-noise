@@ -16,7 +16,9 @@ Brent Savage
 
 1. ***BrentSavage_BME548L_FinalPresentation.pptx:*** slide deck for in-class presentation (May 2, 2024)
 
-3. ***BrentSavage_BME548L_FinalPresentation.pdf:*** pdf version of slide deck
+2. ***BrentSavage_BME548L_FinalPresentation.pdf:*** pdf version of slide deck
+
+3. ***BrentSavage_BME548L_FinalPaper.pdf***: pdf of final paper (May 4, 2024)
 
 ### Resources:
 
