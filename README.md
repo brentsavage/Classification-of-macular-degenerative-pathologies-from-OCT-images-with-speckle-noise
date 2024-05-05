@@ -26,11 +26,13 @@ Brent Savage
 
 2. Autoencoders for deep learning.pdf: review article on how autoencoders are used for image denoising in machine learning applications
 
-3. ECE 542 HW#2: homework completed by Brent Savage for ECE 542: Holography and Coherent Imaging (Fall 2023, Duke University) outlining speckle noise simulation
+3. Class and Seg of AMD OCT: article on classification and segmentation application for OCT images of age-related macular degeneration
 
-4. OCT reveiw.pdf: reivew article on Optical Coherence Tomography
+4. ECE 542 HW#2: homework completed by Brent Savage for ECE 542: Holography and Coherent Imaging (Fall 2023, Duke University) outlining speckle noise simulation
 
-5. Speckle Control for elec-holo.pdf: Optical Engineering article that includes speckle contrast formulation
+5. OCT reveiw.pdf: reivew article on Optical Coherence Tomography
+
+6. Speckle Control for elec-holo.pdf: Optical Engineering article that includes speckle contrast formulation
  
 ### Source Code:
 1. ***SpeckleNoiseSimulation.ipynb:*** demonstrating the addition of speckle noise to OCT images
